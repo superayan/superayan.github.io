@@ -1,0 +1,12 @@
+body
+{
+	background: bisque;
+	font-family: garamond;
+}
+
+h1,h2,h3,p{color: tomato;}
+
+a{color: Sienna;}
+
+.secondHeading{color: Sienna;}
+
