@@ -18,8 +18,11 @@ th, td{
 .mainHeader{
   font-size: 32px;
   padding: 22px 0px 35px 0px;
-  color: IndianRed;
 
+}
+
+.underlineColor{
+  border-bottom-color: PaleTurquoise;
 }
 
 .mainHeader2{
@@ -58,7 +61,7 @@ th, td{
 }
 
 .aLink{
-  color: black;
+  color: IndianRed;
   text-decoration: none;
 }
 
